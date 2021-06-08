@@ -1,0 +1,9 @@
+cargo
+gcc
+libffi-dev
+linux-headers
+make
+musl-dev
+openssl-dev
+rust
+python3-dev

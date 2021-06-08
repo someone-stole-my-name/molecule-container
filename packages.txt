@@ -1,0 +1,12 @@
+bash
+ca-certificates
+curl
+docker-cli
+git
+jq
+openssl
+py3-pip
+py3-virtualenv
+python3
+unzip
+vim
