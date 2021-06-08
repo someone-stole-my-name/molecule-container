@@ -2,4 +2,6 @@ ansible-lint==5.0.11
 ansible==2.10.7
 cryptography==3.3.1
 docker==4.4.1
+molecule-docker==0.2.4
+molecule==3.3.4
 yq==2.11.1
