@@ -8,5 +8,6 @@ openssl
 py3-pip
 py3-virtualenv
 python3
+openssh
 unzip
 vim
