@@ -15,4 +15,3 @@ RUN ansible-galaxy collection install -r requirements.yml -p /usr/share/ansible/
 
 RUN rm -rf /build
 WORKDIR /root
-RUN updatedb
